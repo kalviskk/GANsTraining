@@ -1,6 +1,8 @@
 # GANsTraining
 
-gen_images and all_logs contain Images and graphs of saved model. Number in file name corresponds to a trained model:
+## gen_images and all_logs contain Images and graphs of saved model
+
+Number in file name corresponds to a trained model:
 
 * results0: model trained on 4815 images 500k steps
 
@@ -12,3 +14,8 @@ gen_images and all_logs contain Images and graphs of saved model. Number in file
 * results5: model trained on 1680 images 600k steps lambda=100
 * results6: previous model trained until 1100k steps lambda=150
 * results7: previous model trained until 1600k steps lambda=150
+
+# There are also scripts used in dataset creation
+
+The code should not be used, since it is simple, but bad and ugly.
+The scripts did their job and I'm saving them just in case.
