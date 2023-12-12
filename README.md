@@ -15,7 +15,7 @@ Number in file name corresponds to a trained model:
 * results6: previous model trained until 1100k steps lambda=150
 * results7: previous model trained until 1600k steps lambda=150
 
-# Code and datasets are available in corresponding folders, also can use it all on kaggle:
+# Code is available in gans-training.ipynb, everything can be accessed on kaggle:
 
 * code – https://www.kaggle.com/code/kalviskalnins/gans-training
 * saved checkpoints and logs – https://www.kaggle.com/datasets/kalviskalnins/results
