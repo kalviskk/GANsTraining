@@ -10,5 +10,5 @@ gen_images and all_logs contain Images and graphs of saved model. Number in file
 * results4: previous model trained until 1950k steps, with changed lambda to try reducing weird artifacts
 
 * results5: model trained on 1680 images 600k steps lambda=100
-* results6: previous model trained until 1100k steps lambda=200
-* results7: previous model trained until 1600k steps lambda=200
+* results6: previous model trained until 1100k steps lambda=150
+* results7: previous model trained until 1600k steps lambda=150
